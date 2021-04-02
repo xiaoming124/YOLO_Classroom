@@ -1,0 +1,6 @@
+classes= 14
+train=data/coco/train2017.txt
+valid=data/coco/val2017.txt
+names=data/classroom.names
+backup=backup/
+eval=coco
